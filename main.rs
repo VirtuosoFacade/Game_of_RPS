@@ -120,3 +120,5 @@ fn main() {
     }
 
 }
+
+//install rust if you want to use the main.exe
